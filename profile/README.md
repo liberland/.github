@@ -4,7 +4,7 @@ Liberland a small, city-sized country nestled in the pristine nature of the Nort
 Welcome to Liberland's official home on GitHub, where we store Liberland's documentary base, such as the Constitution, Laws, other Regulation, and where we build project
 Liberland Blockchain.
 
-This Organization is being maintained by Liberland's Ministry of Justice. For any questions, please reach us at justice@liberland.org
+This Organization is being maintained by Liberland's Ministry of Justice. For any questions, comments or suggestions, please reach us at justice@liberland.org
 
 ## Legislation
 In the following repositories, you can follow the legislative process of Liberland, as well as find the already adopted legislation.
