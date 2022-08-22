@@ -5,13 +5,13 @@ Welcome to this GitHub repository, where we store Liberland's documentary base, 
 Liberland Blockchain.
 
 # Legislation
-[Constitution](https://github.com/liberland/constitution)
-[Laws](https://github.com/liberland/laws)
+[Constitution](https://github.com/liberland/constitution)  
+[Laws](https://github.com/liberland/laws)  
 
 # Documents
-[General Documents](https://github.com/liberland/docs)
-[Press](https://github.com/liberland/pressrelease)
+[General Documents](https://github.com/liberland/docs)  
+[Press](https://github.com/liberland/pressrelease)  
 
 #Blockchain
-[Node & Backend](https://github.com/liberland/liberland_substrate)
-[Frontend](https://github.com/liberland/liberland_frontend)
+[Node & Backend](https://github.com/liberland/liberland_substrate)  
+[Frontend](https://github.com/liberland/liberland_frontend)  
