@@ -4,14 +4,17 @@ Liberland a small, city-sized country nestled in the pristine nature of the Nort
 Welcome to this GitHub repository, where we store Liberland's documentary base, such as the Constitution, Laws, other Regulation, and where we build project
 Liberland Blockchain.
 
-# Legislation
-[Constitution](https://github.com/liberland/constitution)  
-[Laws](https://github.com/liberland/laws)  
+## Legislation
+In the following repositories, you can follow the legislative process of Liberland, as well as find the already adopted legislation.
+- [Constitution](https://github.com/liberland/constitution)  
+- [Laws](https://github.com/liberland/laws)  
 
-# Documents
-[General Documents](https://github.com/liberland/docs)  
-[Press](https://github.com/liberland/pressrelease)  
+## Documents
+Here, you find the documents drafted and published by our ministries.
+- [General Documents](https://github.com/liberland/docs)  
+- [Press](https://github.com/liberland/pressrelease)  
 
-#Blockchain
-[Node & Backend](https://github.com/liberland/liberland_substrate)  
-[Frontend](https://github.com/liberland/liberland_frontend)  
+## Blockchain
+The repositories with the code for our Liberland Smart Chain blockchain project.
+- [Node & Backend](https://github.com/liberland/liberland_substrate)  
+- [Frontend](https://github.com/liberland/liberland_frontend)  
