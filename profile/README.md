@@ -1,7 +1,7 @@
 # Liberland
 Liberland a small, city-sized country nestled in the pristine nature of the North Balkans, the area known as Gornja Siga. Liberland's government mixes Swiss democracy with the best corporate governance to become a State fit for the 21st Century. It is a place where those who want to live free in a free land can do so: to "live and let live"; we aspire to become the freest nation in the world, the Singapore of Southern Europe!
 
-Welcome to this GitHub repository, where we store Liberland's documentary base, such as the Constitution, Laws, other Regulation, and where we build project
+Welcome to this home of Liberland on GitHub, where we store Liberland's documentary base, such as the Constitution, Laws, other Regulation, and where we build project
 Liberland Blockchain.
 
 ## Legislation
