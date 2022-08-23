@@ -5,7 +5,7 @@ Want to know more? Please visit our official webpages at [www.liberland.org](www
 Welcome to Liberland's official home on GitHub, where we store Liberland's documentary base, such as the Constitution, Laws, other Regulation, and where we build project
 Liberland Blockchain.
 
-This Organization is being maintained by Liberland's Ministry of Justice. For any questions, comments or suggestions, please reach us at justice@liberland.org
+This Organization is being maintained by Liberland's Ministry of Justice. For any questions, comments or suggestions, please reach us at justice@liberland.org.
 
 ## Legislation
 In the following repositories, you can follow the legislative process of Liberland, as well as find the already adopted legislation.
@@ -21,3 +21,7 @@ Here, you find the documents drafted and published by our ministries.
 The repositories with the code for our Liberland Smart Chain blockchain project.
 - [Node & Backend](https://github.com/liberland/liberland_substrate)  
 - [Frontend](https://github.com/liberland/liberland_frontend)  
+
+For more information about our various activities, please visit our websites:
+- [the Floating Man Festival](https://floatingman.ll.land)
+- [the Liberland Metaverse](https://world.liberland.org)
