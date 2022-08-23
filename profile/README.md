@@ -25,10 +25,10 @@ The repositories with the code for our Liberland Smart Chain blockchain project.
 ## Liberland Online Presence
 Want to know more? Please visit our official webpages at [www.liberland.org](wwww.liberland.org); our [Twitter](https://twitter.com/Liberland_org); or our [Facebook](https://www.facebook.com/groups/liberland).
 For more information about our various particular activities, please visit our other websites:
-- [the Settlement of Liberland](https://floating.ll.land)
-- [the Ark Village](https://ark.ll.land)
-- [the Anniversary Program](https://anniversary.ll.land)
-- [the Floating Man Festival](https://floatingman.ll.land)
-- [the Liberland Metaverse](https://world.liberland.org)
-- [the Liberland Tourism Bureau](https://visit.ll.land)
-- [the Chamber of Commerce (UNDER CONSTRUCTION)](https://chamber.ll.land)
+- [Settlement of Liberland](https://floating.ll.land)
+- [Ark Village](https://ark.ll.land)
+- [Anniversary Program](https://anniversary.ll.land)
+- [Floating Man Festival](https://floatingman.ll.land)
+- [Liberland Metaverse](https://world.liberland.org)
+- [Liberland Tourism Bureau](https://visit.ll.land)
+- [Chamber of Commerce (UNDER CONSTRUCTION)](https://chamber.ll.land)
