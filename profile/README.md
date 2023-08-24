@@ -10,7 +10,8 @@ This Organization is being maintained by Liberland's Ministry of Justice. For an
 ## Legislation
 In the following repositories, you can follow the legislative process of Liberland, as well as find the already adopted legislation.
 - [Constitution](https://github.com/liberland/constitution)  
-- [Laws](https://github.com/liberland/laws)  
+- [Laws](https://github.com/liberland/laws)
+- [Regulations](https://github.com/liberland/Regulations)
 
 ## Documents
 Here, you find the documents drafted and published by our ministries.
