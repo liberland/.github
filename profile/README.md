@@ -18,7 +18,6 @@ In the following repositories, you can follow Liberland's legislative process, a
 These repositories contain documents drafted and published by various Liberland ministries.
 
 - 📄 [General Documents](https://github.com/liberland/docs)
-- 📰 [Press](https://github.com/liberland/pressrelease) - _Deprecated_
 
 ## Blockchain
 
